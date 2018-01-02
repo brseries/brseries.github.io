@@ -481,11 +481,11 @@
         }
       ]
     },
-    "page1.html": {
+    "the-big-bang-theory.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
-        "title": "breaking bad",
-        "order": 12
+        "title": "THE BIG BANG THEORY",
+        "order": 1
       },
       "components": [
         {
@@ -498,310 +498,22 @@
               "width": 1400
             },
             "video": {
-              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt0903747",
+              "src": "http://www.verfilmes.biz/series/the-big-bang-theory-todas-as-temporadas-dublado--legendado.html",
               "autoplay": "on",
               "loop": false,
               "active": true
             }
           },
-          "text": "breaking bad",
+          "text": "THE BIG BANG THEORY",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-1"
+          "_anchor": "image1-g"
         }
       ]
     },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "Site Builder Description",
-        "title": "LEGENDS OF TOMORROW",
-        "order": 11
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt4532368",
-              "autoplay": "on",
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "LEGENDS OF TOMORROW LENDA DO AMANHA",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-2"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "meta_descr": "Web Page Builder Description",
-        "title": "ONCE",
-        "order": 10
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt1843230",
-              "autoplay": "on",
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "ONCE",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-3"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "SMALLVILLE",
-        "order": 9
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt0279600",
-              "autoplay": "on",
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "SMALLVILLE",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-4"
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "meta_descr": "Site Generator Description",
-        "title": "MR. ROBOT",
-        "order": 8
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://www.verfilmes.biz/series/mr-robot-todas-as-temporadas-dublado--legendado.html",
-              "autoplay": "on",
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "MR. ROBOT",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-5"
-        }
-      ]
-    },
-    "page6.html": {
-      "settings": {
-        "meta_descr": "Web Creator Description",
-        "title": "ARROW",
-        "order": 7
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt2193021",
-              "autoplay": "on",
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "ARROW",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-6"
-        }
-      ]
-    },
-    "page7.html": {
-      "settings": {
-        "meta_descr": "Web Page Builder Description",
-        "title": "THE FLASH",
-        "order": 6
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt3107288",
-              "autoplay": "on",
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "THE FLASH",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-8"
-        }
-      ]
-    },
-    "page8.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "13 REASONS WHY",
-        "order": 5
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://filmesonlinex.tv/painel/embed/2125057301/",
-              "autoplay": "on",
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-c"
-        }
-      ]
-    },
-    "page9.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "SUPERGIRL",
-        "order": 4
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://www.verfilmes.biz/series/assistir-supergirl-online.html",
-              "autoplay": "on",
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-d"
-        }
-      ]
-    },
-    "page10.html": {
-      "settings": {
-        "meta_descr": "Web Site Maker Description",
-        "title": "RIVERDALE",
-        "order": 3
-      },
-      "components": [
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt5420376",
-              "autoplay": "on",
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "RIVERDALE",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-e"
-        }
-      ]
-    },
-    "page11.html": {
+    "teenwolf.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "TEEN WOLF",
@@ -833,11 +545,11 @@
         }
       ]
     },
-    "page12.html": {
+    "riverdale.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
-        "title": "THE BIG BANG THEORY",
-        "order": 1
+        "meta_descr": "Web Site Maker Description",
+        "title": "RIVERDALE",
+        "order": 3
       },
       "components": [
         {
@@ -850,18 +562,306 @@
               "width": 1400
             },
             "video": {
-              "src": "http://www.verfilmes.biz/series/the-big-bang-theory-todas-as-temporadas-dublado--legendado.html",
+              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt5420376",
               "autoplay": "on",
               "loop": false,
               "active": true
             }
           },
-          "text": "THE BIG BANG THEORY",
+          "text": "RIVERDALE",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-g"
+          "_anchor": "image1-e"
+        }
+      ]
+    },
+    "supergirl.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "SUPERGIRL",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://www.verfilmes.biz/series/assistir-supergirl-online.html",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-d"
+        }
+      ]
+    },
+    "13reasonswhy.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "13 REASONS WHY",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://filmesonlinex.tv/painel/embed/2125057301/",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-c"
+        }
+      ]
+    },
+    "theflash.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "THE FLASH",
+        "order": 6
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt3107288",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "THE FLASH",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-8"
+        }
+      ]
+    },
+    "arrow.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "ARROW",
+        "order": 7
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt2193021",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "ARROW",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-6"
+        }
+      ]
+    },
+    "mrrobot.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "MR. ROBOT",
+        "order": 8
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://www.verfilmes.biz/series/mr-robot-todas-as-temporadas-dublado--legendado.html",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "MR. ROBOT",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-5"
+        }
+      ]
+    },
+    "smallville.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "SMALLVILLE",
+        "order": 9
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt0279600",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "SMALLVILLE",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-4"
+        }
+      ]
+    },
+    "once.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "ONCE",
+        "order": 10
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt1843230",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "ONCE",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-3"
+        }
+      ]
+    },
+    "legendsoftomorrow.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "LEGENDS OF TOMORROW",
+        "order": 11
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt4532368",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "LEGENDS OF TOMORROW LENDA DO AMANHA",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-2"
+        }
+      ]
+    },
+    "breakingbad.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "breaking bad",
+        "order": 12
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://vizer.tv/api/embed.php?type=serie&imdb=tt0903747",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "breaking bad",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1"
         }
       ]
     }

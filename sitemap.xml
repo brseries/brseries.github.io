@@ -3,12 +3,6 @@
 		<loc>http://brseries.github.io/index.html</loc>
 	</url>
 	<url>
-		<loc>http://brseries.github.io/the-big-bang-theory.html</loc>
-	</url>
-	<url>
-		<loc>http://brseries.github.io/teenwolf.html</loc>
-	</url>
-	<url>
 		<loc>http://brseries.github.io/riverdale.html</loc>
 	</url>
 	<url>
@@ -37,5 +31,29 @@
 	</url>
 	<url>
 		<loc>http://brseries.github.io/breakingbad.html</loc>
+	</url>
+	<url>
+		<loc>http://brseries.github.io/AGENTSOFSHIELD.html</loc>
+	</url>
+	<url>
+		<loc>http://brseries.github.io/PLL.html</loc>
+	</url>
+	<url>
+		<loc>http://brseries.github.io/TVD.html</loc>
+	</url>
+	<url>
+		<loc>http://brseries.github.io/TWD.html</loc>
+	</url>
+	<url>
+		<loc>http://brseries.github.io/THE100.html</loc>
+	</url>
+	<url>
+		<loc>http://brseries.github.io/BALLERS.html</loc>
+	</url>
+	<url>
+		<loc>http://brseries.github.io/TBBT.html</loc>
+	</url>
+	<url>
+		<loc>http://brseries.github.io/TW.html</loc>
 	</url>
 </urlset>

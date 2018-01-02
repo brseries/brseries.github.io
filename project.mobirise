@@ -256,6 +256,9 @@
             },
             "H5": {
               "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "10px"
             }
           }
         },
@@ -385,6 +388,9 @@
             },
             "H5": {
               "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "10px"
             }
           }
         },
@@ -508,7 +514,14 @@
           "_anchor": "features3-7",
           "_styles": {
             "H4": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "H5": {
+              "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "10px"
             }
           }
         },

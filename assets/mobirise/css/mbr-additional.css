@@ -479,6 +479,9 @@ h6,
 #features3-j H5 {
   font-size: 12px;
 }
+#features3-j .btn {
+  font-size: 10px;
+}
 #features3-0 H4 {
   color: #ffffff;
   font-size: 14px;
@@ -486,8 +489,18 @@ h6,
 #features3-0 H5 {
   font-size: 12px;
 }
+#features3-0 .btn {
+  font-size: 10px;
+}
 #features3-7 H4 {
   color: #ffffff;
+  font-size: 14px;
+}
+#features3-7 H5 {
+  font-size: 12px;
+}
+#features3-7 .btn {
+  font-size: 10px;
 }
 #ext_menu-z .hide-buttons .nav-btn {
   display: none !important;

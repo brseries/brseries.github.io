@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 215,
+    "uniqCompNum": 234,
     "versionPublish": "4.5.4",
     "siteUrl": "http://brseries.github.io",
     "sitemapSwitcherAuto": "on",
@@ -152,11 +152,142 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/WJHKTxZO02A?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=WJHKTxZO02A",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/la.casa-.de-.papel-.s02-214x317.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mv5bmjaxndyznzm5nv5bml5banbnxkftztgwmda3mdaymti.-v1-ux182-cr00182268-al-182x268.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mv5bmteznde2mjg0mtdeqtjeqwpwz15bbwu4mduxntcznzay.-v1-ux182-cr00182268-al-182x268.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-5679-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/britannia-5023-poster-180x260.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mv5bmjqwodkwmjgwmv5bml5banbnxkftztgwnta0njy3nte.-v1-ux182-cr00182268-al-182x268.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "LA CASA DE PAPEL",
+          "subtitle1": "DUBLADO E LEGENDADO",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "OUTSIDERS",
+          "subtitle2": "LEGENDADO",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "NASHVILLE",
+          "subtitle3": "DUBLADO ELEGENDADO",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "THE MAGICIANS",
+          "subtitle4": "DUBLADO E LEGENDADO",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "BRITANNIA",
+          "subtitle5": "LEGENDADO",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "THE BRINK",
+          "subtitle6": "DUBLADO E LEGENDADO",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page74.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">assistir</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page75.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">ASSISTIR</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page76.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">ASSISTIR</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page77.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">ASSISTIR</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"page78.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">ASSISTIR</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"page79.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">ASSISTIR</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5z",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/WJHKTxZO02A?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=WJHKTxZO02A",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#222",
@@ -256,7 +387,13 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-5g"
+          "_anchor": "features3-5g",
+          "_styles": {
+            "H4": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -1574,7 +1711,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "RIVERDALE",
-        "order": 64
+        "order": 70
       },
       "components": [
         {
@@ -1606,7 +1743,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "SUPERGIRL",
-        "order": 65
+        "order": 71
       },
       "components": [
         {
@@ -1638,7 +1775,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "13 REASONS WHY",
-        "order": 66
+        "order": 72
       },
       "components": [
         {
@@ -1670,7 +1807,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "THE FLASH",
-        "order": 67
+        "order": 73
       },
       "components": [
         {
@@ -1702,7 +1839,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "ARROW",
-        "order": 68
+        "order": 74
       },
       "components": [
         {
@@ -1734,7 +1871,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "MR. ROBOT",
-        "order": 69
+        "order": 75
       },
       "components": [
         {
@@ -1766,7 +1903,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "SMALLVILLE",
-        "order": 70
+        "order": 76
       },
       "components": [
         {
@@ -1798,7 +1935,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "ONCE",
-        "order": 71
+        "order": 77
       },
       "components": [
         {
@@ -1830,7 +1967,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "LEGENDS OF TOMORROW",
-        "order": 72
+        "order": 78
       },
       "components": [
         {
@@ -1862,7 +1999,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "breaking bad",
-        "order": 73
+        "order": 79
       },
       "components": [
         {
@@ -1894,7 +2031,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "AGENTS OF SHIELD",
-        "order": 56
+        "order": 62
       },
       "components": [
         {
@@ -2117,7 +2254,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Pretty Little Liars",
-        "order": 57
+        "order": 63
       },
       "components": [
         {
@@ -2340,7 +2477,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "DIARIO DE UM VAMPIRO",
-        "order": 58
+        "order": 64
       },
       "components": [
         {
@@ -2563,7 +2700,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "THE WALKING DEAD",
-        "order": 59
+        "order": 65
       },
       "components": [
         {
@@ -2786,7 +2923,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "THE 100",
-        "order": 60
+        "order": 66
       },
       "components": [
         {
@@ -3009,7 +3146,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "BALLERS",
-        "order": 61
+        "order": 67
       },
       "components": [
         {
@@ -3232,7 +3369,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "THE BIG BANG THEORY",
-        "order": 62
+        "order": 68
       },
       "components": [
         {
@@ -3264,7 +3401,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "TEEN WOLF",
-        "order": 63
+        "order": 69
       },
       "components": [
         {
@@ -3296,7 +3433,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "DRAGON BALL SUPER",
-        "order": 55
+        "order": 61
       },
       "components": [
         {
@@ -3519,7 +3656,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "WATAHA",
-        "order": 54
+        "order": 60
       },
       "components": [
         {
@@ -3742,7 +3879,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "SUPERNATURAL",
-        "order": 53
+        "order": 59
       },
       "components": [
         {
@@ -3965,7 +4102,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "THE TICK",
-        "order": 52
+        "order": 58
       },
       "components": [
         {
@@ -4188,7 +4325,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "VIKINGS",
-        "order": 51
+        "order": 57
       },
       "components": [
         {
@@ -4411,7 +4548,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "AMERICAN GODS",
-        "order": 50
+        "order": 56
       },
       "components": [
         {
@@ -4634,7 +4771,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "SONS OF ANARCHY",
-        "order": 49
+        "order": 55
       },
       "components": [
         {
@@ -4857,7 +4994,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "OS DEFENSORES",
-        "order": 48
+        "order": 54
       },
       "components": [
         {
@@ -5080,7 +5217,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "TODO MUNDO ODEIA O CRIS",
-        "order": 47
+        "order": 53
       },
       "components": [
         {
@@ -5303,7 +5440,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "THE ORIGINALS",
-        "order": 46
+        "order": 52
       },
       "components": [
         {
@@ -5526,7 +5663,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "LUCIFER",
-        "order": 45
+        "order": 51
       },
       "components": [
         {
@@ -5749,7 +5886,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "PRISON BREAK",
-        "order": 44
+        "order": 50
       },
       "components": [
         {
@@ -5972,7 +6109,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "CRIMINAL MINDS",
-        "order": 43
+        "order": 49
       },
       "components": [
         {
@@ -6195,7 +6332,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "THE GOOD DOCTOR",
-        "order": 42
+        "order": 48
       },
       "components": [
         {
@@ -6418,7 +6555,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "DARK",
-        "order": 41
+        "order": 47
       },
       "components": [
         {
@@ -6641,7 +6778,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "3%",
-        "order": 40
+        "order": 46
       },
       "components": [
         {
@@ -6864,7 +7001,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "THE MICK",
-        "order": 39
+        "order": 45
       },
       "components": [
         {
@@ -7087,7 +7224,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "AMERICAN HORROR STORY",
-        "order": 38
+        "order": 44
       },
       "components": [
         {
@@ -7310,7 +7447,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "GOTHAM",
-        "order": 37
+        "order": 43
       },
       "components": [
         {
@@ -7533,7 +7670,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "WEST WORLD",
-        "order": 36
+        "order": 42
       },
       "components": [
         {
@@ -7756,7 +7893,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "DYNASTY",
-        "order": 35
+        "order": 41
       },
       "components": [
         {
@@ -7979,7 +8116,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "THE BLACK LIST",
-        "order": 34
+        "order": 40
       },
       "components": [
         {
@@ -8202,7 +8339,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "O JUSTICEIRO",
-        "order": 33
+        "order": 39
       },
       "components": [
         {
@@ -8425,7 +8562,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "VICTORIA",
-        "order": 32
+        "order": 38
       },
       "components": [
         {
@@ -8648,7 +8785,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "AMERICAN CRIME STORY",
-        "order": 31
+        "order": 37
       },
       "components": [
         {
@@ -8871,7 +9008,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "2 BROKE GIRLS",
-        "order": 30
+        "order": 36
       },
       "components": [
         {
@@ -9094,7 +9231,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "HUMANS",
-        "order": 29
+        "order": 35
       },
       "components": [
         {
@@ -9317,7 +9454,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "STAR TREK",
-        "order": 28
+        "order": 34
       },
       "components": [
         {
@@ -9540,7 +9677,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "THE GIFTED",
-        "order": 27
+        "order": 33
       },
       "components": [
         {
@@ -9763,7 +9900,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "DOIS HOMENS E MEIO",
-        "order": 26
+        "order": 32
       },
       "components": [
         {
@@ -9986,7 +10123,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "FILMES",
-        "order": 19
+        "order": 25
       },
       "components": [
         {
@@ -10458,7 +10595,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "bem vindo a selva",
-        "order": 25
+        "order": 31
       },
       "components": [
         {
@@ -10681,7 +10818,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "malevola",
-        "order": 24
+        "order": 30
       },
       "components": [
         {
@@ -10904,7 +11041,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "feito na america",
-        "order": 23
+        "order": 29
       },
       "components": [
         {
@@ -11127,7 +11264,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "it a coisa",
-        "order": 22
+        "order": 28
       },
       "components": [
         {
@@ -11350,7 +11487,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "o chamado 3",
-        "order": 21
+        "order": 27
       },
       "components": [
         {
@@ -11573,7 +11710,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "liga da justiça",
-        "order": 20
+        "order": 26
       },
       "components": [
         {
@@ -11796,7 +11933,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "mulher maravilha",
-        "order": 18
+        "order": 24
       },
       "components": [
         {
@@ -12019,7 +12156,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Homem aranha de voltar ao lar",
-        "order": 17
+        "order": 23
       },
       "components": [
         {
@@ -12242,7 +12379,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "terremoto",
-        "order": 16
+        "order": 22
       },
       "components": [
         {
@@ -12465,7 +12602,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "12 rounds 2",
-        "order": 15
+        "order": 21
       },
       "components": [
         {
@@ -12688,7 +12825,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "a mumia",
-        "order": 14
+        "order": 20
       },
       "components": [
         {
@@ -12911,7 +13048,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "torre negra",
-        "order": 13
+        "order": 19
       },
       "components": [
         {
@@ -13134,7 +13271,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "12 MONKEYS",
-        "order": 12
+        "order": 18
       },
       "components": [
         {
@@ -13356,7 +13493,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "O ULTIMO HOMEM  NA TERRA",
-        "order": 11
+        "order": 17
       },
       "components": [
         {
@@ -13578,7 +13715,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "GRIMM",
-        "order": 10
+        "order": 16
       },
       "components": [
         {
@@ -13800,7 +13937,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "ROOM 104",
-        "order": 9
+        "order": 15
       },
       "components": [
         {
@@ -14022,7 +14159,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "MACGYVER",
-        "order": 8
+        "order": 14
       },
       "components": [
         {
@@ -14244,7 +14381,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "AMERICAN CRIME",
-        "order": 7
+        "order": 13
       },
       "components": [
         {
@@ -14466,7 +14603,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "stranger things",
-        "order": 6
+        "order": 12
       },
       "components": [
         {
@@ -14688,7 +14825,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Mr.bean",
-        "order": 5
+        "order": 11
       },
       "components": [
         {
@@ -14910,7 +15047,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "RUSH HOUR",
-        "order": 4
+        "order": 10
       },
       "components": [
         {
@@ -15132,7 +15269,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "MAKO MERMAIDS",
-        "order": 3
+        "order": 9
       },
       "components": [
         {
@@ -15354,7 +15491,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "XENA",
-        "order": 2
+        "order": 8
       },
       "components": [
         {
@@ -15576,7 +15713,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "O SOCIO",
-        "order": 1
+        "order": 7
       },
       "components": [
         {
@@ -15791,6 +15928,1338 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-5x"
+        }
+      ]
+    },
+    "page74.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "LA CASA DE PAPEL",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://overplayh.github.io\">FILMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"index.html\">INICIO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "color": "#b8312f",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRSERIES</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-60"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://www.verfilmes.biz/series/assistir-la-casa-de-papel-online.html",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-62"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hulk-thor-ragnarok-comic-con-poster-1200x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.8"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "title1": "categoria",
+          "text1": "melhor site de séries gratis com a melhor qualidade possivel,séries adicionadas todos os dias,se tiver duas série da mesma é porque as duas tão com players de frente...",
+          "text2": "48 séries",
+          "text3": "sv",
+          "text4": "ta faltando sua série ?fale cmg",
+          "text5": "<li>aventura</li><li><a class=\"text-white\" href=\"#\">a</a>ção</li><li>suspense</li><li>Terror</li><li>comédia</li>",
+          "text6": "<strong>desinvolvedor</strong><br>juniorlnd<br><br><br><strong>Data</strong><br>criado em 02/01/2018<br>BR",
+          "form": {
+            "title": "MESSAGE",
+            "action": "arombado321@gmail.com",
+            "alerts": {
+              "success": "OBRIGADO!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Menssagem"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-61"
+        }
+      ]
+    },
+    "page75.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "OUTSIDERS",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://overplayh.github.io\">FILMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"index.html\">INICIO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "color": "#b8312f",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRSERIES</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-63"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://www.verfilmes.biz/series/outsiders-todas-as-temporadas-dublado--legendado.html",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-65"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hulk-thor-ragnarok-comic-con-poster-1200x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.8"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "title1": "categoria",
+          "text1": "melhor site de séries gratis com a melhor qualidade possivel,séries adicionadas todos os dias,se tiver duas série da mesma é porque as duas tão com players de frente...",
+          "text2": "48 séries",
+          "text3": "sv",
+          "text4": "ta faltando sua série ?fale cmg",
+          "text5": "<li>aventura</li><li><a class=\"text-white\" href=\"#\">a</a>ção</li><li>suspense</li><li>Terror</li><li>comédia</li>",
+          "text6": "<strong>desinvolvedor</strong><br>juniorlnd<br><br><br><strong>Data</strong><br>criado em 02/01/2018<br>BR",
+          "form": {
+            "title": "MESSAGE",
+            "action": "arombado321@gmail.com",
+            "alerts": {
+              "success": "OBRIGADO!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Menssagem"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-64"
+        }
+      ]
+    },
+    "page76.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "NASHVILLE",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://overplayh.github.io\">FILMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"index.html\">INICIO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "color": "#b8312f",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRSERIES</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-66"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://www.verfilmes.biz/series/nashville-todas-as-temporadas-dublado--legendado.html",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-68"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hulk-thor-ragnarok-comic-con-poster-1200x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.8"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "title1": "categoria",
+          "text1": "melhor site de séries gratis com a melhor qualidade possivel,séries adicionadas todos os dias,se tiver duas série da mesma é porque as duas tão com players de frente...",
+          "text2": "48 séries",
+          "text3": "sv",
+          "text4": "ta faltando sua série ?fale cmg",
+          "text5": "<li>aventura</li><li><a class=\"text-white\" href=\"#\">a</a>ção</li><li>suspense</li><li>Terror</li><li>comédia</li>",
+          "text6": "<strong>desinvolvedor</strong><br>juniorlnd<br><br><br><strong>Data</strong><br>criado em 02/01/2018<br>BR",
+          "form": {
+            "title": "MESSAGE",
+            "action": "arombado321@gmail.com",
+            "alerts": {
+              "success": "OBRIGADO!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Menssagem"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-67"
+        }
+      ]
+    },
+    "page77.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "THE MAGICIANS",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://overplayh.github.io\">FILMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"index.html\">INICIO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "color": "#b8312f",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRSERIES</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-69"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://www.verfilmes.biz/series/the-magicians-todos-os-episodios-dublado--legendado.html",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-6b"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hulk-thor-ragnarok-comic-con-poster-1200x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.8"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "title1": "categoria",
+          "text1": "melhor site de séries gratis com a melhor qualidade possivel,séries adicionadas todos os dias,se tiver duas série da mesma é porque as duas tão com players de frente...",
+          "text2": "48 séries",
+          "text3": "sv",
+          "text4": "ta faltando sua série ?fale cmg",
+          "text5": "<li>aventura</li><li><a class=\"text-white\" href=\"#\">a</a>ção</li><li>suspense</li><li>Terror</li><li>comédia</li>",
+          "text6": "<strong>desinvolvedor</strong><br>juniorlnd<br><br><br><strong>Data</strong><br>criado em 02/01/2018<br>BR",
+          "form": {
+            "title": "MESSAGE",
+            "action": "arombado321@gmail.com",
+            "alerts": {
+              "success": "OBRIGADO!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Menssagem"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-6a"
+        }
+      ]
+    },
+    "page78.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "BRITANNIA",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://overplayh.github.io\">FILMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"index.html\">INICIO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "color": "#b8312f",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRSERIES</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6c"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://www.verfilmes.biz/series/assistir-britannia-online.html",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-6e"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hulk-thor-ragnarok-comic-con-poster-1200x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.8"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "title1": "categoria",
+          "text1": "melhor site de séries gratis com a melhor qualidade possivel,séries adicionadas todos os dias,se tiver duas série da mesma é porque as duas tão com players de frente...",
+          "text2": "48 séries",
+          "text3": "sv",
+          "text4": "ta faltando sua série ?fale cmg",
+          "text5": "<li>aventura</li><li><a class=\"text-white\" href=\"#\">a</a>ção</li><li>suspense</li><li>Terror</li><li>comédia</li>",
+          "text6": "<strong>desinvolvedor</strong><br>juniorlnd<br><br><br><strong>Data</strong><br>criado em 02/01/2018<br>BR",
+          "form": {
+            "title": "MESSAGE",
+            "action": "arombado321@gmail.com",
+            "alerts": {
+              "success": "OBRIGADO!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Menssagem"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-6d"
+        }
+      ]
+    },
+    "page79.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "THE BRINK",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "http://www.verfilmes.biz/series/the-brink-todas-as-temporadas-dublado--legendado.html",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-6h"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://overplayh.github.io\">FILMES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"index.html\">INICIO</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "color": "#b8312f",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BRSERIES</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6f"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hulk-thor-ragnarok-comic-con-poster-1200x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.8"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/harrygif.gif",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "title1": "categoria",
+          "text1": "melhor site de séries gratis com a melhor qualidade possivel,séries adicionadas todos os dias,se tiver duas série da mesma é porque as duas tão com players de frente...",
+          "text2": "48 séries",
+          "text3": "sv",
+          "text4": "ta faltando sua série ?fale cmg",
+          "text5": "<li>aventura</li><li><a class=\"text-white\" href=\"#\">a</a>ção</li><li>suspense</li><li>Terror</li><li>comédia</li>",
+          "text6": "<strong>desinvolvedor</strong><br>juniorlnd<br><br><br><strong>Data</strong><br>criado em 02/01/2018<br>BR",
+          "form": {
+            "title": "MESSAGE",
+            "action": "arombado321@gmail.com",
+            "alerts": {
+              "success": "OBRIGADO!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Menssagem"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-6g"
         }
       ]
     }
